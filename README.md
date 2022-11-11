@@ -2,26 +2,13 @@
 
 ## Introduction
 
+![image](https://user-images.githubusercontent.com/82542269/201372394-fa07d9f8-16c7-4cd8-a112-abdf46aa1d10.png)
 
 
 
 
-As an economist at world trade/bank organization, we will be working with the country wise statistics to get the different correlation variables
+As an economist at world trade/bank organization, we will be working with the country wise statistics to get the different correlation variables. For an economy, its overall performance is shown by the indicators such as national income, happinesss, score, corruption level, generosity score. It is important to determine how these variables are related to each other for economics and other ways. For example, if a lower level of corruption is followed by a higher income, it would sugest the government to work onthese factors. To do so , we will be working with two dataset: climate and national income indicators;
 
-
-
-For an economy, its overall performance is shown by the indicators such as national income, happinesss, score, corruption level, generosity score.
-
-It is important to determine how these variables are related to each other for economics and other ways. For example, if a lower level of corruption is followed by a higher income, it would sugest the government to work onthese factors.
-
-To do so , we will be working with two dataset:
-
-climate:
-
-national income indicators;
-
-
-* One based 
 
 
 
